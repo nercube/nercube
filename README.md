@@ -1,51 +1,45 @@
 # Hi, I'm Om Kumar 👋
-Final-year BTech Computer Science student | Data Science • Machine Learning • Analytics
 
-I build **end-to-end data projects** — from raw data → cleaning → modeling → dashboards → insights.
-
-🎯 Actively seeking **Data Analyst / Data Scientist / ML Intern / Entry-level roles**
+Final-year Computer Science undergraduate focused on **Data Analytics and Business Intelligence**.  
+I work with real-world datasets to extract insights, build dashboards, and support data-driven decision-making.
 
 ---
 
-## 🧠 What I Do
-- Analyze real-world datasets (finance, sales, energy, healthcare)
-- Build ML & time-series models (ARIMA, LSTM, Prophet)
-- Create business-ready dashboards (Power BI, Tableau)
-- Convert data into **clear, decision-focused insights**
+## 💼 What I Do
+
+- Analyze structured datasets to identify trends and business insights  
+- Perform data cleaning, transformation, and exploratory analysis  
+- Build KPI dashboards and reports using Power BI and Tableau  
+- Write SQL queries for data extraction and ad-hoc analysis  
+- Translate data into clear, decision-focused insights  
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Python, SQL  
-- **Machine Learning:** Regression, Classification, Time Series Forecasting  
-- **Data Analytics:** EDA, Feature Engineering, Statistical Analysis  
-- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib  
+## 🛠️ Tools & Skills
+
+- **Languages:** SQL, Python  
+- **Data Analysis:** Data Cleaning, EDA, KPI Tracking, Trend Analysis  
 - **Visualization:** Power BI, Tableau, Excel  
-- **Tools:** Git, Jupyter, Streamlit  
 
 ---
 
-## 🚀 Featured Projects
-### 📊 Bitcoin Price Analysis & Forecasting
-- Historical price analysis (2014–2025)
-- Volatility metrics & trend detection
-- Interactive Power BI dashboard  
-🔗 `bitcoin-powerbi-analysis`
+## 📌 Featured Work
 
-### 🔋 EV Battery Health & Safety Monitoring
-- 87,000+ BMS records analyzed
-- Anomaly detection using ML ensemble
-- Battery safety state classification  
-🔗 `Deepvalley-ev-battery`
+Check out my pinned repositories for:
+- SQL-based business analytics projects  
+- Interactive dashboards and reporting solutions  
+- Real-world data analysis projects  
 
-### 🌍 Global Trade & GDP Dashboard
-- Economic trends across 56 countries
-- Trade vs GDP insights
-- Policy-level visualization  
-🔗 `Global-Trade-GDP-Dashboard-PowerBI`
+---
+
+## 🎯 Currently
+
+Seeking **Data Analyst / Business Analyst entry-level roles**
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/om-kumar
-- **GitHub:** https://github.com/nercube
+
+- Email: omkumarkubi@gmail.com  
+- LinkedIn: https://linkedin.com/in/om-kumar  
+- GitHub: https://github.com/nercube  
